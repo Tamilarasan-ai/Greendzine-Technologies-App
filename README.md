@@ -2,7 +2,7 @@
 
 ## Demo Live Link
 
-
+https://greendzine-technologies-app.vercel.app/
 
 ## Description
 
@@ -10,6 +10,10 @@ GreenDzine Company Frontend App is a web application designed to showcase and ma
 
 - **Frontend:** Developed with Reactjs , styled with  Tailwindcss , and incorporating with additional framework-Material UI.
 
+## Login Detail
+
+username: Test
+password: Test123
 
 ### Clone the Repository:
 
