@@ -12,8 +12,9 @@ GreenDzine Company Frontend App is a web application designed to showcase and ma
 
 ## Login Detail
 
-username: Test
-password: Test123
+username: **Test**
+
+password: **Test123**
 
 ### Clone the Repository:
 
