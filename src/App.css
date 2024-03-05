@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 1px solid none !important;
+}
+.css-8u9tfx-MuiButtonBase-root-MuiBottomNavigationAction-root:hover{
+    background-color: rgb(0, 2, 12);
+    border-radius: 5px;
+}
